@@ -1,0 +1,65 @@
+.mainheader{
+  /*background-image: url('../images/IMG_20190419_005042_833.JPG');*/
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+ /* min-height: 300px;
+  margin-bottom: 300px;  this is the space b/w this element and
+  what ever that comes next.
+  width: 100%;
+  text-align: center;
+*/
+}
+.photogrid1{
+  background-image: url('../images/IMG_20190419_005219_974.JPG');
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+  min-height: 300px;
+  margin-bottom: 30px; /* this is the space b/w this element and
+  what ever that comes next.*/
+
+  text-align: center;
+}
+.photogrid2{
+  background-image: url('../images/IMG_20190419_004846_527.JPG');
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+  min-height: 300px;
+  margin-bottom: 30px; /* this is the space b/w this element and
+  what ever that comes next.*/
+
+  text-align: center;
+}
+.photogrid3{
+  background-image: url('../images/IMG_20190419_004953_851.JPG');
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+  min-height: 300px;
+  margin-bottom: 30px; /* this is the space b/w this element and
+  what ever that comes next.*/
+
+  text-align: center;
+  text-decoration-color: white;
+}
+/*<img src="/w3images/lights.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+*/
+
+/*footer image*/
+.photofooter1{
+  background-image: url('../images/IMG_20190419_005219_974.JPG');
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+  min-height: 30px;
+  margin-bottom: 10px; /* this is the space b/w this element and
+  what ever that comes next.*/
+
+  text-align: center;
+}
+.photofooter2{
+  background-image: url('../images/IMG_20190419_004846_527.JPG');
+   background-position: center right;
+  /*<!--to make it more responsive we use min-height instead of just height-->*/
+  min-height: 30px;
+  margin-bottom: 10px; /* this is the space b/w this element and
+  what ever that comes next.*/
+
+  text-align: center;
